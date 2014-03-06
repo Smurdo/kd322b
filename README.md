@@ -4,3 +4,5 @@ kd322b
 Mina laborationsuppgifter fÃ¶r Programmering fÃ¶r interaktionsdesign 2
 
 Kontrollerad av: Benjamin Almö Thorsell
+
+Även kontrollerad av: Viktor Tornborg.
